@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Olexandr Bielisnkyi 👋
 
-<!--
-**a4ivi401/a4ivi401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub
 
-Here are some ideas to get you started:
+## 🔧 Technologies and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming Languages: 
+  - Python
+  - JavaScript
+  - php
+  - Pascal
+  
+- Web Technologies:
+  - HTML
+  - CSS
+  - React
+  - Node.js
+
+- Databases:
+  - MySQL
+  - MongoDB
+
+- Tools:
+  - Git
+  - Docker
+  - Visual Studio Code
+
+## 🌱 Currently Learning
+
+- TypeScript
+- GraphQL
+- DevOps practices
+
+## 📈 My Projects
+
+Here are some of my projects that you can find on my GitHub:
+
+- ClipCollector - Telegram-bot for downloading video.
+
+## 📫 How to Reach Me
+
+- [X](https://x.com/a4ivi4)
+- [Email](mailto:a4ivi4.mail@gmail.com)
+
+Thank you for visiting my profile! If you have any questions or suggestions, feel free to reach out!
