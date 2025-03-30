@@ -40,13 +40,14 @@ Here are some of my projects that you can find on my GitHub:
 - MP3-Tools - Telegram bot to convert mp3 to voice messages and vice versa
 - OpenCore EFI Config
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a4ivi401&show_icons=true&locale=en&layout=compact" alt="a4ivi401" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/a4ivi4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mlarchanka" height="30" width="40" /></a>
 <a href="https://instagram.com/belisnkiy.inst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashorror" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@itsa4ivi4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="larchanka" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a4ivi401&show_icons=true&locale=en&layout=compact" alt="a4ivi401" /></p>
 
 Thank you for visiting my profile! If you have any questions or suggestions, feel free to reach out!
