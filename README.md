@@ -25,7 +25,7 @@ Welcome to my GitHub
   - Docker
   - Visual Studio Code
  
-<figure><embed src="https://wakatime.com/share/@da1d3d82-a29f-40e7-8e16-8e8153203227/160821e6-beeb-426c-a160-6f90dddea2e3.svg"></embed></figure>
+<p><figure><embed src="https://wakatime.com/share/@da1d3d82-a29f-40e7-8e16-8e8153203227/160821e6-beeb-426c-a160-6f90dddea2e3.svg"></embed></figure></p>
 
 ## 🌱 Currently Learning
 
