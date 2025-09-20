@@ -9,16 +9,6 @@ Welcome to my GitHub
   - JavaScript
   - php
   - Pascal
-  
-- Web Technologies:
-  - HTML
-  - CSS
-  - React
-  - Node.js
-
-- Databases:
-  - MySQL
-  - MongoDB
 
 - Tools:
   - Git
@@ -30,7 +20,7 @@ Welcome to my GitHub
 ## 🌱 Currently Learning
 
 - TypeScript
-- GraphQL
+- C++
 - DevOps practices
 
 ## 📈 My Projects
