@@ -28,8 +28,6 @@ Welcome to my GitHub
 Here are some of my projects that you can find on my GitHub:
 
 - ClipCollector - Telegram-bot for downloading video.
-- Auto_up - python bot for autoup theme
-- MP3-Tools - Telegram bot to convert mp3 to voice messages and vice versa
 - OpenCore EFI Config
 
 
