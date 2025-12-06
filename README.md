@@ -30,9 +30,6 @@ Here are some of my projects that you can find on my GitHub:
 - ClipCollector - Telegram-bot for downloading video.
 - OpenCore EFI Config
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a4ivi401&show_icons=true&locale=en&layout=compact" alt="a4ivi401" /></p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/a4ivi4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mlarchanka" height="30" width="40" /></a>
