@@ -1,4 +1,4 @@
-# Hi, I'm Olexandr Bielisnkyi 👋
+# Hi, I'm Belinsky Alexander 👋
 
 Welcome to my GitHub
 
