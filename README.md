@@ -84,6 +84,8 @@ Here are some of my projects that you can find on my GitHub:
   </a>
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a4ivi401)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/a4ivi4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mlarchanka" height="30" width="40" /></a>
