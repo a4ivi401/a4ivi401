@@ -1,33 +1,21 @@
 # Hi, I'm Belinsky Alexander 👋
 
-Welcome to my GitHub
+Welcome to my GitHub!
 
-## 🔧 Technologies and Tools
+<div align="center">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=a4ivi401&style=flat-square&color=blue" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/a4ivi401?style=flat-square&label=Followers" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/stars/a4ivi401?style=flat-square&label=Stars" alt="GitHub stars" />
+  </p>
+</div>
 
-- Programming Languages: 
-  - Python
-  - JavaScript
-  - php
+---
 
-- Tools:
-  - Git
-  - Docker
- 
-<p><figure><embed src="https://wakatime.com/share/@da1d3d82-a29f-40e7-8e16-8e8153203227/160821e6-beeb-426c-a160-6f90dddea2e3.svg"></embed></figure></p>
+## 🔧 Technologies & Tools
 
-## 🌱 Currently Learning
-
-- TypeScript
-- C++
-- C#
-- DevOps practices
-
-## 📈 My Projects
-
-Here are some of my projects that you can find on my GitHub:
-
-- ClipCollector - Telegram-bot for downloading video.
-- OpenCore EFI Config
+- **Languages:** Python, JavaScript, PHP
+- **Tools:** Git, Docker
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -84,13 +72,43 @@ Here are some of my projects that you can find on my GitHub:
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a4ivi401)
+## 🌱 Currently Learning
 
-<h3 align="left">Connect with me:</h3>
+- TypeScript
+- C++
+- C#
+- DevOps practices
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=a4ivi401&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a4ivi401&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+</div>
+
+<div align="center">
+  <figure>
+    <embed src="https://wakatime.com/share/@da1d3d82-a29f-40e7-8e16-8e8153203227/160821e6-beeb-426c-a160-6f90dddea2e3.svg"></embed>
+  </figure>
+</div>
+
+## 📁 Projects
+
+- ClipCollector — Telegram bot for downloading video.
+- OpenCore EFI Config
+
+## 🤝 Connect with me
+
 <p align="left">
-<a href="https://x.com/a4ivi4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mlarchanka" height="30" width="40" /></a>
-<a href="https://instagram.com/belinskiy.inst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashorror" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@itsa4ivi4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="larchanka" height="30" width="40" /></a>
+  <a href="https://x.com/a4ivi4" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/belinskiy.inst" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@itsa4ivi4" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" />
+  </a>
 </p>
 
-Thank you for visiting my profile! If you have any questions or suggestions, feel free to reach out!
+Thanks for visiting my profile! If you have any questions or suggestions, feel free to reach out.
