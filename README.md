@@ -27,7 +27,7 @@ Welcome to my GitHub
 Here are some of my projects that you can find on my GitHub:
 
 - ClipCollector - Telegram-bot for downloading video.
-- OpenCore EFI Config
+- NullSpend - Telegram-bot for budget tracking.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
