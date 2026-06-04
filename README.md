@@ -7,7 +7,6 @@ Welcome to my GitHub
 - Programming Languages: 
   - Python
   - JavaScript
-  - php
 
 - Tools:
   - Git
